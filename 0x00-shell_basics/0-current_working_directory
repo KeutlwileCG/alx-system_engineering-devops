@@ -1,2 +1,1 @@
-#!/bin/bash\necho 
-ls
+#!/bin/bash\necho "pwd"
