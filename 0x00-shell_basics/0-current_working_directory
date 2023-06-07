@@ -1,2 +1,2 @@
-#!/bin/bash\necho "First current working directory on engineering system"
-learning how to code for myself for the first time 
+#!/bin/bash\necho 
+ls
