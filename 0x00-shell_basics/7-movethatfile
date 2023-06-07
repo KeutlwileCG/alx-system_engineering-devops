@@ -1,1 +1,2 @@
-#!/bin/bash mv /tmp/betty /tmp/My_first_direcctory/betty
+#!/bin/bash
+mv /tmp/betty /tmp/My_first_direcctory/betty
