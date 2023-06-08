@@ -1,1 +1,2 @@
-#!/bin/bash coma
+#!/bin/bash
+ls -xamp
