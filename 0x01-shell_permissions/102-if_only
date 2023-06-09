@@ -1,1 +1,1 @@
-only
+chown --from=guillaume betty hello
