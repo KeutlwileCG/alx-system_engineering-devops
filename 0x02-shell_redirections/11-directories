@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -not -name '"best school"'
+find . -type d -not -name '.'
