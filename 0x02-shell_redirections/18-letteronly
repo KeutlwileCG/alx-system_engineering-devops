@@ -1,1 +1,2 @@
-letter
+#!/bin/bash
+grep -i '"[a.z]' etc/sch/ashd.config
